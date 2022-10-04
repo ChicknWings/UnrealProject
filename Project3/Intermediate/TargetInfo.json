@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Project3",
+			"Path": "C:\\Users\\lingg\\Documents\\GitHub\\UnrealProject\\Project3\\Source\\Project3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Project3Editor",
+			"Path": "C:\\Users\\lingg\\Documents\\GitHub\\UnrealProject\\Project3\\Source\\Project3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
